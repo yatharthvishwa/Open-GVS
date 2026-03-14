@@ -1,5 +1,6 @@
 # Open-GVS
 control a person with gvs!!
+
 Qty,Value,Description,UNIT Price inr,value inr, Value usd,notes,URL
 1,Conn_01x19_Socket,female pin header,9,9,0.099,could only find 40,https://quartzcomponents.com/products/40-pin-straight-female-berg-strips?_pos=1&_psq=female+pin+header&_ss=e&_v=1.0
 1,Conn_01x02_Pin,male pin header,7,7,0.077,could only find 40,https://quartzcomponents.com/products/40-pin-break-away-headers-straight-male-headers?_pos=1&_psq=male+header&_ss=e&_v=1.0
