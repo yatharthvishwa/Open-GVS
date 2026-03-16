@@ -6,4 +6,4 @@ I was inspired to make this project because of a open sauce video https://www.yo
 
 📄 [View BOM](./GVS.csv)
 
-![electrode](images/Screenshot 2026-01-23 223440.png)
+![Electrode](images/Electrode.png)
