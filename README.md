@@ -6,4 +6,11 @@ I was inspired to make this project because of a open sauce video https://www.yo
 
 📄 [View BOM](./GVS.csv)
 
+electrode stl
 ![Electrode](images/Electrode)
+
+PCB
+![PCB](images/PCB)
+
+Simulation
+![Simulation](images/simulation)
